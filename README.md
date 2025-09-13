@@ -60,8 +60,8 @@ OLAP e Data Mining: ferramentas de análise e descoberta de padrões em grandes 
 1. Estrutura do Repositório
 O repositório está organizado para seguir a sequência das unidades de ensino, facilitando a navegação pelos tópicos teóricos e práticos.
 
-/sistemas-de-informacao/
-└── unidade-01
+/sistema-computacao-informacao/
+└── readme.md
 2. Clonando o Repositório
 Para acessar os materiais, basta clonar o repositório em sua máquina:
 
