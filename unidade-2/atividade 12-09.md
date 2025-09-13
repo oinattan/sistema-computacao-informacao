@@ -1,6 +1,4 @@
-Claro! Aqui está o texto formatado em **Markdown para GitHub**, com estrutura clara, títulos hierárquicos e listas organizadas:
 
-```markdown
 # 💻 Sistema de Computação e de Informação
 
 ## 📌 Atividade Parcial I – 200 pontos  
@@ -42,6 +40,3 @@ O objetivo é **aprofundar a compreensão** sobre os diferentes tipos de sistema
 ---
 
 📧 **E-mail para envio:** higor.luiz@kroton.com.br
-```
-
-Se quiser, posso te ajudar a criar o conteúdo do resumo também — desde a introdução até os exemplos de empresas que usam ERP ou CRM, por exemplo. Quer seguir por esse caminho?
